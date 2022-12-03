@@ -38,7 +38,7 @@
     
 // Take Two
         function ignite (){
-        alert("Welcome to Wade and Sons Group od Stores!");
+        alert("Welcome to Wade and Sons Group of Stores!");
 
         alert("See list of Products");
                 alert(
