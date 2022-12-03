@@ -1,0 +1,17 @@
+
+        body{
+            background-image: url("./image/download.png");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: auto 100vh;
+        }
+        .whole {
+            margin-top: 30rem;
+            text-align: center;
+        }
+        button{
+            background-color:orange;
+            padding: 1.0rem;
+            border: none;
+            border-radius: 1.0rem;
+        }
